@@ -48,15 +48,6 @@
 
 ### 🛠️ Skills
 
-#### 🎨 Frontend
-
-<div>
-<img src="https://img.shields.io/badge/-HTML-444.svg?logo=HTML5&style=for-the-badge" alt="HTML">
-<img src="https://img.shields.io/badge/-css-444.svg?logo=css&style=for-the-badge" alt="CSS">
-<img src="https://img.shields.io/badge/-Sass-444.svg?logo=Sass&style=for-the-badge" alt="Sass">
-<img src="https://img.shields.io/badge/-Tailwind%20CSS-444.svg?logo=Tailwind%20CSS&style=for-the-badge" alt="Tailwind CSS">
-</div>
-
 #### 📖 Markup
 
 <div>
