@@ -8,7 +8,7 @@
 
 <br />
 
-## 🔥 Hobby
+### 🔥 Hobby
 
 ```
 - 💻 Web Development
@@ -26,7 +26,7 @@
 
 <br />
 
-## ✨ Vision
+### ✨ Vision
 
 ```diff
 + Spark curiosity and create exciting experiences.
@@ -44,18 +44,18 @@
 
 <br />
 
-## 🛠️ Skills
+### 🛠️ Skills
 
-### 🎨 Frontend
+#### 🎨 Frontend
 
 <p>
 <img src="https://img.shields.io/badge/-HTML-444.svg?logo=HTML5&style=for-the-badge" alt="HTML">
-<img src="https://img.shields.io/badge/-CSS-444.svg?logo=CSS3&style=for-the-badge" alt="CSS">
+<img src="https://img.shields.io/badge/-css-444.svg?logo=css&style=for-the-badge" alt="CSS">
 <img src="https://img.shields.io/badge/-Sass-444.svg?logo=Sass&style=for-the-badge" alt="Sass">
 <img src="https://img.shields.io/badge/-Tailwind%20CSS-444.svg?logo=Tailwind%20CSS&style=for-the-badge" alt="Tailwind CSS">
 </p>
 
-### 💻 Programming Languages
+#### 💻 Programming Languages
 
 <p>
 <img src="https://img.shields.io/badge/-JavaScript-444.svg?logo=JavaScript&style=for-the-badge" alt="JavaScript">
@@ -63,7 +63,7 @@
 <img src="https://img.shields.io/badge/-PHP-444.svg?logo=PHP&style=for-the-badge" alt="PHP">
 </p>
 
-### ⚡ Frameworks & Libraries
+#### ⚡ Frameworks & Libraries
 
 <p>
 <img src="https://img.shields.io/badge/-React-444.svg?logo=React&style=for-the-badge" alt="React">
@@ -71,7 +71,7 @@
 <img src="https://img.shields.io/badge/-Astro-444.svg?logo=Astro&style=for-the-badge" alt="Astro">
 </p>
 
-### ✨ Animation & 3D
+#### ✨ Animation & 3D
 
 <p>
 <img src="https://img.shields.io/badge/-GSAP-444.svg?logo=GSAP&style=for-the-badge" alt="GSAP">
@@ -80,7 +80,7 @@
 <img src="https://img.shields.io/badge/-React%20Spring-444.svg?logo=React%20Spring&style=for-the-badge" alt="React Spring">
 </p>
 
-### 🗄️ Backend & Database
+#### 🗄️ Backend & Database
 
 <p>
 <img src="https://img.shields.io/badge/-WordPress-444.svg?logo=WordPress&style=for-the-badge" alt="WordPress">
@@ -88,7 +88,7 @@
 <img src="https://img.shields.io/badge/-Prisma-444.svg?logo=Prisma&style=for-the-badge" alt="Prisma">
 </p>
 
-### 🔧 Tools & Services
+#### 🔧 Tools & Services
 
 <p>
 <img src="https://img.shields.io/badge/-webpack-444.svg?logo=webpack&style=for-the-badge" alt="webpack">
@@ -98,7 +98,7 @@
 <img src="https://img.shields.io/badge/-Git-444.svg?logo=Git&style=for-the-badge" alt="Git">
 </p>
 
-### 🤖 AI
+#### 🤖 AI
 
 <p>
 <img src="https://img.shields.io/badge/-MCP-444.svg?logo=MCP&style=for-the-badge" alt="MCP">
@@ -112,13 +112,9 @@
 
 <br />
 
-## 🎨 Projects
+### 🎨 Projects
 
 <div align="center">
-
-<table>
-<tr>
-<td align="center">
 
 ### 🎮 OUTPUT QUEST ~ 叡智の継承者 ~
 
@@ -128,10 +124,7 @@ _Interactive web application with gamification elements_
 
 <img src="https://img.shields.io/badge/Type-Web%20Application-ff3d00?style=for-the-badge" alt="Type" />
 
-</td>
-</tr>
-<tr>
-<td align="center">
+---
 
 ### 🎃 Portfolio Site
 
@@ -140,10 +133,6 @@ _Interactive web application with gamification elements_
 _Creative portfolio with stunning animations and 3D experiences_
 
 <img src="https://img.shields.io/badge/Type-Portfolio-ff3d00?style=for-the-badge" alt="Type" />
-
-</td>
-</tr>
-</table>
 
 </div>
 
