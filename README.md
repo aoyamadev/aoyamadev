@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&gradient_start=ff6b4a&gradient_end=ff3d00&height=120&section=header" width="100%">
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=ff3d00&center=true&vCenter=true&multiline=true&width=700&height=120&lines=I+create+things.;Web+Developer+%7C+Leveraging+AI+daily.;Creating+the+best+with+AI." alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0&gradient_start=ff3d00a&gradient_end=ff3d00&height=3" width="100%">
