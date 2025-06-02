@@ -57,6 +57,20 @@
 <img src="https://img.shields.io/badge/-Tailwind%20CSS-444.svg?logo=Tailwind%20CSS&style=for-the-badge" alt="Tailwind CSS">
 </div>
 
+#### 📖 Markup
+
+<div>
+<img src="https://img.shields.io/badge/-HTML-444.svg?logo=HTML5&style=for-the-badge" alt="HTML">
+</div>
+
+#### 🎨 Styling
+
+<div>
+<img src="https://img.shields.io/badge/-css-444.svg?logo=css&style=for-the-badge" alt="CSS">
+<img src="https://img.shields.io/badge/-Sass-444.svg?logo=Sass&style=for-the-badge" alt="Sass">
+<img src="https://img.shields.io/badge/-Tailwind%20CSS-444.svg?logo=Tailwind%20CSS&style=for-the-badge" alt="Tailwind CSS">
+</div>
+
 #### 💻 Programming Languages
 
 <div>
@@ -119,11 +133,11 @@
 
 <br />
 
-### 🎨 Projects
+### 🎁 Projects
 
 <div align="center">
 
-### 🎮 OUTPUT QUEST ~ 叡智の継承者 ~
+### 【 OUTPUT QUEST ~ 叡智の継承者 ~ 】
 
 <img src="gif/output-quest.gif" alt="OUTPUT QUEST" width="100%" />
 
@@ -133,7 +147,7 @@ _Interactive web application with gamification elements_
 
 ---
 
-### 🎃 Portfolio Site
+### 【 Portfolio Site 】
 
 <img src="gif/portfolio.gif" alt="Portfolio" width="100%" />
 
