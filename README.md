@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ccd5e2,100:ff008a&height=120&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6ba,100:c90216&height=120&section=header" width="100%">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=ff008a&center=true&vCenter=true&multiline=true&width=700&height=120&lines=I+create+things.;Web+Developer+%7C+Leveraging+AI+daily.;Creating+the+best+with+AI." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=ffd6ba&center=true&vCenter=true&multiline=true&width=700&height=120&lines=I+create+things.;Web+Developer+%7C+Leveraging+AI+daily.;Creating+the+best+with+AI." alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ccd5e2,100:ff008a&height=3&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffd6ba,100:c90216&height=3&section=header" width="100%">
 
 </div>
 
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ccd5e2,100:ff008a&height=3&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffd6ba,100:c90216&height=3&section=header" width="100%">
 
 </div>
 
@@ -40,7 +40,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ccd5e2,100:ff008a&height=3&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffd6ba,100:c90216&height=3&section=header" width="100%">
 
 </div>
 
@@ -118,7 +118,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ccd5e2,100:ff008a&height=3&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffd6ba,100:c90216&height=3&section=header" width="100%">
 
 </div>
 
@@ -134,7 +134,7 @@
 
 _Creative portfolio with stunning animations and 3D experiences_
 
-<img src="https://img.shields.io/badge/Type-Portfolio-ff008a?style=for-the-badge" alt="Type" />
+<img src="https://img.shields.io/badge/Type-Portfolio-c90216?style=for-the-badge" alt="Type" />
 
 ---
 
@@ -144,9 +144,9 @@ _Creative portfolio with stunning animations and 3D experiences_
 
 _Interactive web application with gamification elements_
 
-<img src="https://img.shields.io/badge/Type-Web%20Application-ff008a?style=for-the-badge" alt="Type" />
+<img src="https://img.shields.io/badge/Type-Web%20Application-c90216?style=for-the-badge" alt="Type" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ccd5e2,100:ff008a&height=3&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffd6ba,100:c90216&height=3&section=header" width="100%">
 
 </div>
 
@@ -154,6 +154,6 @@ _Interactive web application with gamification elements_
 
 #### 💫 Let's Build Something Amazing Together !!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ccd5e2,100:ff008a&height=120&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6ba,100:c90216&height=120&section=footer" width="100%">
 
 </div>
