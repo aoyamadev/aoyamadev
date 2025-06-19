@@ -138,7 +138,7 @@ _Creative portfolio with stunning animations and 3D experiences_
 
 ---
 
-### 【 OUTPUT QUEST ~ 叡智の継承者 ~ 】
+### 【 OUTPUT QUEST　叡智の継承者 】
 
 <img src="gif/output-quest.gif" alt="OUTPUT QUEST" width="100%" />
 
