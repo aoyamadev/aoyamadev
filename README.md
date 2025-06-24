@@ -113,6 +113,7 @@
 #### 🤖 AI
 
 <div>
+<img src="https://img.shields.io/badge/-LLM-444.svg?logo=LLM&style=for-the-badge" alt="LLM">
 <img src="https://img.shields.io/badge/-MCP-444.svg?logo=MCP&style=for-the-badge" alt="MCP">
 </div>
 
