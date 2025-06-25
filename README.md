@@ -135,7 +135,7 @@
 
 _Creative portfolio with stunning animations and 3D experiences_
 
-<img src="https://img.shields.io/badge/Type-Portfolio-0055ab?style=for-the-badge" alt="Type" />
+<img src="https://img.shields.io/badge/Type-Portfolio%20Site-0055ab?style=for-the-badge" alt="Type" />
 
 ---
 
